@@ -2,15 +2,36 @@
 
 # 💫 About Me:
 
+I am the Founder of Ray-IT, a Microsoft Partner and Managed Service Provider (MSP) focused on delivering secure, scalable, and structured IT foundations for growing businesses.
+
+As a Cloud Architect, I design and implement modern Azure and Microsoft 365 environments built around identity-first architecture, security-by-design principles, and resilient data platforms. At Ray-IT, our mission is to provide businesses with a stable and secure digital backbone that enables operational efficiency, compliance, and long-term growth.
+
+Our core focus areas include:
+
+• Azure & Hybrid Cloud architecture  
+• Microsoft 365 tenant design and governance  
+• Identity & Access Security (Microsoft Entra ID, Conditional Access, Zero Trust principles)  
+• SQL Server & high-availability data platforms  
+• Business Applications (Dynamics 365 & integrated productivity solutions)  
+• Infrastructure automation (PowerShell, Python, Infrastructure as Code)  
+• Secure endpoint, device, and cloud management  
+
+We work at the intersection of infrastructure, data, and business processes — ensuring that cloud environments are not only technically sound, but aligned with organizational strategy and scalability goals.
+
+I combine architectural strategy with hands-on engineering, translating business requirements into production-ready environments that are secure, automated, and built to evolve with the organization.
 
 ## Certifications:
 
-![DP-700 – Data Engineering](https://img.shields.io/badge/DP-700-Data_Engineering-blue?style=for-the-badge&logo=microsoftazure)
-![SC-900 – Security, Compliance & Identity](https://img.shields.io/badge/SC-900-Security_Compliance_Identity-blue?style=for-the-badge&logo=microsoftazure)  
-![MB-920 – Dynamics 365 Fundamentals](https://img.shields.io/badge/MB-920-D365_Fundamentals-blue?style=for-the-badge&logo=microsoftdynamics365) 
-![AZ-305 – Azure Solutions Architect Expert](https://img.shields.io/badge/AZ-305-Azure_Solutions_Architect_Expert-blue?style=for-the-badge&logo=microsoftazure)  
-![AZ-104 – Azure Administrator](https://img.shields.io/badge/AZ-104-Azure_Administrator-blue?style=for-the-badge&logo=microsoftazure)  
-![MS-900 – Microsoft 365 Fundamentals](https://img.shields.io/badge/MS-900-Microsoft_365_Fundamentals-blue?style=for-the-badge&logo=microsoftoffice)
+DP-700 – Data Engineering
+W3school: Certified SQL Developer
+AZ-801: Configuring Windows Server Hybrid Advanced Services
+SC-900 – Security, Compliance & Identity
+DP-300: Administering Microsoft Azure SQL Solutions
+MB-920 – Dynamics 365 Fundamentals
+AZ-305 – Azure Solutions Architect Expert
+AZ-104 – Azure Administrator
+MS-900 – Microsoft 365 Fundamentals
+
 
 
 ## 🌐 Socials:
