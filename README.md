@@ -3,6 +3,16 @@
 # 💫 About Me:
 
 
+## Certifications:
+
+![DP-700 – Data Engineering](https://img.shields.io/badge/DP-700-Data_Engineering-blue?style=for-the-badge&logo=microsoftazure)
+![SC-900 – Security, Compliance & Identity](https://img.shields.io/badge/SC-900-Security_Compliance_Identity-blue?style=for-the-badge&logo=microsoftazure)  
+![MB-920 – Dynamics 365 Fundamentals](https://img.shields.io/badge/MB-920-D365_Fundamentals-blue?style=for-the-badge&logo=microsoftdynamics365) 
+![AZ-305 – Azure Solutions Architect Expert](https://img.shields.io/badge/AZ-305-Azure_Solutions_Architect_Expert-blue?style=for-the-badge&logo=microsoftazure)  
+![AZ-104 – Azure Administrator](https://img.shields.io/badge/AZ-104-Azure_Administrator-blue?style=for-the-badge&logo=microsoftazure)  
+![MS-900 – Microsoft 365 Fundamentals](https://img.shields.io/badge/MS-900-Microsoft_365_Fundamentals-blue?style=for-the-badge&logo=microsoftoffice)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaif nurmohamed) 
 
