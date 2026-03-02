@@ -3,7 +3,6 @@
 # 💫 About Me:
 
 I am the Founder of Ray-IT, a Microsoft Partner and Managed Service Provider (MSP) focused on delivering secure, scalable, and structured IT foundations for growing businesses.
-
 As a Cloud Architect, I design and implement modern Azure and Microsoft 365 environments built around identity-first architecture, security-by-design principles, and resilient data platforms. At Ray-IT, our mission is to provide businesses with a stable and secure digital backbone that enables operational efficiency, compliance, and long-term growth.
 
 Our core focus areas include:
@@ -17,12 +16,11 @@ Our core focus areas include:
 • Secure endpoint, device, and cloud management  
 
 We work at the intersection of infrastructure, data, and business processes — ensuring that cloud environments are not only technically sound, but aligned with organizational strategy and scalability goals.
-
 I combine architectural strategy with hands-on engineering, translating business requirements into production-ready environments that are secure, automated, and built to evolve with the organization.
 
 ## Certifications:
 
-• DP-700 – Data Engineering
+• DP-700 – Fabric Data Engineer Associate
 • W3school: Certified SQL Developer
 • AZ-801: Configuring Windows Server Hybrid Advanced Services
 • SC-900 – Security, Compliance & Identity
