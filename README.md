@@ -22,15 +22,15 @@ I combine architectural strategy with hands-on engineering, translating business
 
 ## Certifications:
 
-DP-700 – Data Engineering
-W3school: Certified SQL Developer
-AZ-801: Configuring Windows Server Hybrid Advanced Services
-SC-900 – Security, Compliance & Identity
-DP-300: Administering Microsoft Azure SQL Solutions
-MB-920 – Dynamics 365 Fundamentals
-AZ-305 – Azure Solutions Architect Expert
-AZ-104 – Azure Administrator
-MS-900 – Microsoft 365 Fundamentals
+• DP-700 – Data Engineering
+• W3school: Certified SQL Developer
+• AZ-801: Configuring Windows Server Hybrid Advanced Services
+• SC-900 – Security, Compliance & Identity
+• DP-300: Administering Microsoft Azure SQL Solutions
+• MB-920 – Dynamics 365 Fundamentals
+• AZ-305 – Azure Solutions Architect Expert
+• AZ-104 – Azure Administrator
+• MS-900 – Microsoft 365 Fundamentals
 
 
 
